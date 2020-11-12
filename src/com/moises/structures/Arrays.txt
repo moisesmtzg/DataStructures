@@ -1,0 +1,10 @@
+	- Contiguous block in memory
+	- Can´t be resized
+	- Every element occupies the same amount of space of memory
+	- If we know the index of the element, the time to retrieve the element will be the same.
+	- Calculate memory address  = x+i*y
+	(x = start, i = element, y= size of each element)
+	- Fast to retrieve elements when we have the index O(1)
+	-Retrieve element when we dont have the index O(n)
+
+	

@@ -1,0 +1,18 @@
+List 
+	- Is an interface
+	- Sequential
+
+
+ArrayList
+	- Have the same complexity as Arrays
+
+Vector
+	- Same as ArraList
+	- It is thread safe and synchronized
+
+LinkedList
+	- Insert O(1)
+	- Elements just insert in head
+	- Use nodes(key = data, and reference to next node)
+	- Last Node its next node points to null
+	- Remove/Delete O(1) 
